@@ -5,25 +5,28 @@
 <html>
 <head>
 <meta charset="UTF-8">
+<link rel="stylesheet" href="list.css" />
 <title>Coffee Shop!</title>
-
-
 </head>
-<body>
-<body>
 
-	<!-- Navbar content -->
-	<h1 class="navbar-brand">Welcome to Tae's Coffee shop!</h1>
+<body id = "body">
 
-	<form class="form-inline">
+	
+	<h1>Welcome to Tae's Coffee shop!</h1>
+	
+	<p>
+		Navigate to the registry page below.
+	</p>
+
+	
 
 		<a href="/userregistration">Register</a> 
 
 
-	</form>
-	</nav>
+	
+	
 </body>
 
-</body>
+
 
 </html>
